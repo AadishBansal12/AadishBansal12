@@ -22,7 +22,7 @@
 - A nature🌿 lover | Social Worker : Founder at Aadi Foundation <a href = "https://www.linkedin.com/company/83002832">Aadi Foundation</a>.
 
  
- <h1 align="center"><img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif" alt="DanceBot GIF" width="60" height="60">Know more about me on my  <a href = "https://aadish.laksh02.repl.co/">Website</a><img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif" alt="DanceBot GIF" width="60" height="60">
+ <h1 align="left"><img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif" alt="DanceBot GIF" width="60" height="60">Know more about me on my  <a href = "https://aadish.laksh02.repl.co/">Website</a><img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif" alt="DanceBot GIF" width="60" height="60">
 </p></h1>
  
 
